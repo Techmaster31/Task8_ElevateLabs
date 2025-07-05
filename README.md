@@ -53,7 +53,8 @@ This project presents a basic yet insightful sales dashboard built using Power B
 
 ##  Screenshot
 
-![Sales Dashboard Preview](Screenshot%202025-07-05%20135655.png)
+![Screenshot 2025-07-05 135655](https://github.com/user-attachments/assets/803ca7d3-70a8-4fe3-88e4-042cf98f4d5e)
+
 
 ---
 
