@@ -63,10 +63,8 @@ This project presents a basic yet insightful sales dashboard built using Power B
 | File Name                         | Description                              |
 |----------------------------------|------------------------------------------|
 | `PowerBI_Dashboard.pbix`         | Power BI file with the interactive report |
-| `Screenshot 2025-07-05.png`      | Dashboard screenshot                     |
+| `Dashboard_Image.png`            | Dashboard screenshot                     |
 | `README.md`                      | This file                                 |
-| `sales_insights.txt` *(optional)*| Summary of key insights (as text)         |
-
 ---
 
 ##  Outcome
